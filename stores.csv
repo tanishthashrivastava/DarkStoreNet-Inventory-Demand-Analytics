@@ -1,0 +1,19 @@
+store_id,city_zone,store_type,capacity_sqft,launch_date
+STORE_01,West Zone,residential,1660,2024-07-13
+STORE_02,East Zone,residential,1895,2023-10-23
+STORE_03,Central Zone,residential,1844,2025-06-13
+STORE_04,South Zone,residential,1266,2026-08-05
+STORE_05,East Zone,residential,2282,2025-11-22
+STORE_06,Central Zone,residential,1923,2026-03-25
+STORE_07,East Zone,residential,2485,2025-11-20
+STORE_08,Central Zone,residential,1569,2024-04-16
+STORE_09,West Zone,residential,2237,2026-03-15
+STORE_10,South Zone,residential,2015,2026-07-29
+STORE_11,West Zone,commercial,1076,2026-05-14
+STORE_12,North Zone,commercial,1259,2024-05-04
+STORE_13,South Zone,commercial,821,2026-06-08
+STORE_14,Central Zone,commercial,1547,2025-02-27
+STORE_15,North Zone,commercial,2384,2024-05-01
+STORE_16,East Zone,commercial,1882,2026-03-30
+STORE_17,South Zone,commercial,2299,2026-04-17
+STORE_18,West Zone,commercial,1775,2025-06-08

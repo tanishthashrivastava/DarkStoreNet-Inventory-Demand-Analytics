@@ -1,0 +1,251 @@
+sku_id,name,category,unit_cost,unit_price,shelf_life_days
+SKU_001,Potato 1,Fruits & Vegetables,215.41,282.91,322
+SKU_002,Water 2,Beverages,278.52,326.64,331
+SKU_003,Chips 3,Snacks,386.94,497.18,244
+SKU_004,Dal 4,Staples,107.74,140.5,94
+SKU_005,Tissue 5,Household,208.17,305.65,37
+SKU_006,Namkeen 6,Snacks,271.76,352.96,4
+SKU_007,Soap 7,Personal Care,235.73,340.58,193
+SKU_008,Noodles 8,Grocery,360.03,505.68,272
+SKU_009,Muffin 9,Bakery,37.19,53.76,298
+SKU_010,Jam 10,Grocery,242.97,303.31,219
+SKU_011,Nuggets 11,Frozen Food,324.83,375.33,67
+SKU_012,Ice Cream 12,Frozen Food,95.51,137.1,65
+SKU_013,Paneer 13,Dairy,320.27,472.14,263
+SKU_014,Rice 14,Staples,367.68,503.04,203
+SKU_015,Biscuits 15,Grocery,44.15,55.8,64
+SKU_016,Potato 16,Fruits & Vegetables,262.27,344.96,37
+SKU_017,Water 17,Beverages,309.1,381.0,220
+SKU_018,Cleaner 18,Household,218.64,259.92,17
+SKU_019,Apple 19,Fruits & Vegetables,139.46,194.33,98
+SKU_020,Energy Drink 20,Beverages,225.14,276.94,31
+SKU_021,Cleaner 21,Household,284.02,419.04,286
+SKU_022,Nuggets 22,Frozen Food,351.16,430.68,30
+SKU_023,Popcorn 23,Snacks,143.25,182.6,350
+SKU_024,Milk 24,Dairy,106.62,153.14,123
+SKU_025,Frozen Corn 25,Frozen Food,22.64,29.88,139
+SKU_026,Paneer 26,Dairy,122.38,181.12,154
+SKU_027,Shampoo 27,Personal Care,173.46,258.48,320
+SKU_028,Chocolate 28,Snacks,115.68,139.03,115
+SKU_029,Bread 29,Bakery,121.38,160.94,4
+SKU_030,Lotion 30,Personal Care,151.13,181.46,128
+SKU_031,Salt 31,Staples,50.72,62.55,186
+SKU_032,Lotion 32,Personal Care,260.28,335.65,200
+SKU_033,Milk 33,Dairy,141.9,197.74,328
+SKU_034,Potato 34,Fruits & Vegetables,143.86,191.22,348
+SKU_035,Potato 35,Fruits & Vegetables,265.17,392.23,310
+SKU_036,Bun 36,Bakery,338.33,429.47,269
+SKU_037,Frozen Peas 37,Frozen Food,371.38,460.62,300
+SKU_038,Rice 38,Staples,216.32,324.2,4
+SKU_039,Energy Drink 39,Beverages,355.4,443.4,11
+SKU_040,Tomato 40,Fruits & Vegetables,345.4,491.49,56
+SKU_041,Muffin 41,Bakery,51.97,70.8,106
+SKU_042,Apple 42,Fruits & Vegetables,272.13,339.99,351
+SKU_043,Noodles 43,Grocery,282.92,423.83,210
+SKU_044,Chips 44,Snacks,26.87,32.58,279
+SKU_045,Cake 45,Bakery,269.89,361.62,35
+SKU_046,Onion 46,Fruits & Vegetables,204.96,280.98,266
+SKU_047,Jam 47,Grocery,211.0,292.05,286
+SKU_048,Butter 48,Dairy,107.47,134.15,306
+SKU_049,Apple 49,Fruits & Vegetables,36.57,54.09,174
+SKU_050,Water 50,Beverages,304.13,448.56,39
+SKU_051,Butter 51,Dairy,237.47,343.99,190
+SKU_052,Coke 52,Beverages,140.43,179.81,130
+SKU_053,Wheat 53,Staples,373.41,442.12,176
+SKU_054,Soap 54,Personal Care,116.58,168.7,275
+SKU_055,Frozen Corn 55,Frozen Food,289.39,362.54,41
+SKU_056,Dishwash 56,Household,327.84,386.38,15
+SKU_057,Detergent 57,Household,258.6,356.22,22
+SKU_058,Potato 58,Fruits & Vegetables,239.97,324.53,290
+SKU_059,Toothpaste 59,Personal Care,196.93,294.14,65
+SKU_060,Soap 60,Personal Care,346.95,403.53,307
+SKU_061,Toothpaste 61,Personal Care,68.28,96.92,266
+SKU_062,Coffee 62,Beverages,339.97,455.3,352
+SKU_063,Tissue 63,Household,70.44,98.62,126
+SKU_064,Apple 64,Fruits & Vegetables,171.55,223.64,277
+SKU_065,Dishwash 65,Household,29.63,34.91,119
+SKU_066,Fries 66,Frozen Food,175.4,257.89,60
+SKU_067,Biscuits 67,Grocery,270.88,360.5,274
+SKU_068,Energy Drink 68,Beverages,179.45,241.92,78
+SKU_069,Onion 69,Fruits & Vegetables,65.66,78.18,287
+SKU_070,Coke 70,Beverages,138.34,159.92,206
+SKU_071,Dal 71,Staples,199.92,262.42,291
+SKU_072,Juice 72,Beverages,254.02,370.96,327
+SKU_073,Namkeen 73,Snacks,257.83,373.79,98
+SKU_074,Energy Drink 74,Beverages,81.92,121.27,282
+SKU_075,Biscuits 75,Grocery,349.54,517.0,162
+SKU_076,Muffin 76,Bakery,167.5,219.49,35
+SKU_077,Tomato 77,Fruits & Vegetables,377.76,542.9,325
+SKU_078,Bun 78,Bakery,98.54,115.71,287
+SKU_079,Jam 79,Grocery,55.89,70.86,37
+SKU_080,Dal 80,Staples,341.05,432.87,92
+SKU_081,Apple 81,Fruits & Vegetables,208.49,290.61,316
+SKU_082,Muffin 82,Bakery,178.82,239.94,251
+SKU_083,Coke 83,Beverages,236.04,353.28,229
+SKU_084,Namkeen 84,Snacks,115.01,145.98,98
+SKU_085,Coffee 85,Beverages,183.02,257.87,15
+SKU_086,Apple 86,Fruits & Vegetables,163.54,216.49,64
+SKU_087,Nuggets 87,Frozen Food,360.3,421.09,179
+SKU_088,Frozen Corn 88,Frozen Food,54.69,81.08,286
+SKU_089,Popcorn 89,Snacks,207.35,271.0,146
+SKU_090,Potato 90,Fruits & Vegetables,144.89,206.77,55
+SKU_091,Nuggets 91,Frozen Food,373.75,437.34,188
+SKU_092,Dal 92,Staples,300.07,381.94,223
+SKU_093,Sauce 93,Grocery,281.45,406.26,255
+SKU_094,Bun 94,Bakery,170.73,238.54,285
+SKU_095,Energy Drink 95,Beverages,52.24,70.7,341
+SKU_096,Cheese 96,Dairy,109.94,164.37,329
+SKU_097,Chocolate 97,Snacks,162.98,231.76,277
+SKU_098,Toothpaste 98,Personal Care,114.52,136.16,21
+SKU_099,Onion 99,Fruits & Vegetables,24.31,32.82,222
+SKU_100,Chocolate 100,Snacks,311.53,439.4,363
+SKU_101,Onion 101,Fruits & Vegetables,110.25,145.22,193
+SKU_102,Ice Cream 102,Frozen Food,104.97,150.18,136
+SKU_103,Energy Drink 103,Beverages,397.33,492.11,231
+SKU_104,Potato 104,Fruits & Vegetables,48.67,66.69,49
+SKU_105,Butter 105,Dairy,284.83,417.39,261
+SKU_106,Frozen Corn 106,Frozen Food,126.77,148.35,226
+SKU_107,Face Wash 107,Personal Care,60.57,73.25,10
+SKU_108,Namkeen 108,Snacks,167.54,226.9,318
+SKU_109,Coke 109,Beverages,118.78,148.23,147
+SKU_110,Coffee 110,Beverages,249.06,300.59,242
+SKU_111,Onion 111,Fruits & Vegetables,377.4,510.78,258
+SKU_112,Frozen Peas 112,Frozen Food,51.44,74.75,288
+SKU_113,Coke 113,Beverages,315.49,471.83,148
+SKU_114,Paneer 114,Dairy,245.77,316.44,65
+SKU_115,Butter 115,Dairy,44.13,57.16,107
+SKU_116,Butter 116,Dairy,41.42,57.66,8
+SKU_117,Energy Drink 117,Beverages,398.72,565.84,25
+SKU_118,Juice 118,Beverages,342.87,423.23,147
+SKU_119,Ice Cream 119,Frozen Food,382.54,467.67,207
+SKU_120,Milk 120,Dairy,307.66,392.38,36
+SKU_121,Bun 121,Bakery,209.3,301.6,120
+SKU_122,Sauce 122,Grocery,330.23,444.6,238
+SKU_123,Ice Cream 123,Frozen Food,70.93,92.01,305
+SKU_124,Energy Drink 124,Beverages,262.96,322.0,77
+SKU_125,Face Wash 125,Personal Care,392.58,532.52,308
+SKU_126,Banana 126,Fruits & Vegetables,152.34,199.23,168
+SKU_127,Dishwash 127,Household,347.7,496.78,135
+SKU_128,Rice 128,Staples,207.0,271.31,342
+SKU_129,Jam 129,Grocery,152.02,208.52,128
+SKU_130,Apple 130,Fruits & Vegetables,194.85,234.44,338
+SKU_131,Face Wash 131,Personal Care,89.11,115.32,186
+SKU_132,Tomato 132,Fruits & Vegetables,273.67,333.14,63
+SKU_133,Onion 133,Fruits & Vegetables,84.2,107.07,94
+SKU_134,Lotion 134,Personal Care,228.51,299.64,135
+SKU_135,Wheat 135,Staples,68.92,95.91,220
+SKU_136,Frozen Peas 136,Frozen Food,323.78,450.29,123
+SKU_137,Cake 137,Bakery,369.93,425.76,63
+SKU_138,Chips 138,Snacks,52.12,63.3,357
+SKU_139,Bun 139,Bakery,308.78,405.08,80
+SKU_140,Sugar 140,Staples,115.93,161.2,9
+SKU_141,Cleaner 141,Household,222.2,290.33,276
+SKU_142,Tomato 142,Fruits & Vegetables,112.14,143.77,121
+SKU_143,Rice 143,Staples,339.47,429.3,88
+SKU_144,Ice Cream 144,Frozen Food,150.31,208.58,27
+SKU_145,Apple 145,Fruits & Vegetables,209.41,283.64,113
+SKU_146,Soap 146,Personal Care,231.94,277.09,238
+SKU_147,Nuggets 147,Frozen Food,157.97,215.26,284
+SKU_148,Cake 148,Bakery,394.88,583.16,231
+SKU_149,Energy Drink 149,Beverages,78.09,94.2,114
+SKU_150,Bread 150,Bakery,50.49,58.39,245
+SKU_151,Coffee 151,Beverages,398.96,514.36,8
+SKU_152,Chips 152,Snacks,206.48,304.62,64
+SKU_153,Bun 153,Bakery,126.39,154.42,302
+SKU_154,Salt 154,Staples,181.67,255.73,227
+SKU_155,Curd 155,Dairy,311.76,421.95,40
+SKU_156,Cookies 156,Snacks,222.38,284.48,163
+SKU_157,Bun 157,Bakery,228.47,341.9,140
+SKU_158,Bun 158,Bakery,53.39,74.13,321
+SKU_159,Milk 159,Dairy,246.34,318.8,40
+SKU_160,Butter 160,Dairy,335.64,433.98,238
+SKU_161,Water 161,Beverages,376.57,483.04,78
+SKU_162,Cheese 162,Dairy,339.89,489.37,330
+SKU_163,Coffee 163,Beverages,82.19,99.88,215
+SKU_164,Tomato 164,Fruits & Vegetables,260.83,332.71,64
+SKU_165,Rice 165,Staples,279.53,364.42,330
+SKU_166,Onion 166,Fruits & Vegetables,134.52,175.35,25
+SKU_167,Milk 167,Dairy,155.04,227.48,311
+SKU_168,Tomato 168,Fruits & Vegetables,183.98,252.0,69
+SKU_169,Bun 169,Bakery,72.92,106.28,17
+SKU_170,Cheese 170,Dairy,301.76,363.04,159
+SKU_171,Butter 171,Dairy,114.43,132.94,291
+SKU_172,Soap 172,Personal Care,309.73,438.0,125
+SKU_173,Lotion 173,Personal Care,62.04,81.27,230
+SKU_174,Cookies 174,Snacks,225.15,276.99,159
+SKU_175,Pasta 175,Grocery,263.64,355.37,245
+SKU_176,Sugar 176,Staples,247.63,300.51,150
+SKU_177,Wheat 177,Staples,379.97,514.93,220
+SKU_178,Biscuits 178,Grocery,117.29,170.69,106
+SKU_179,Chocolate 179,Snacks,320.23,447.53,295
+SKU_180,Rice 180,Staples,238.99,336.44,53
+SKU_181,Bread 181,Bakery,371.72,442.21,259
+SKU_182,Juice 182,Beverages,338.78,488.9,184
+SKU_183,Paneer 183,Dairy,244.68,313.86,151
+SKU_184,Coke 184,Beverages,98.12,113.0,315
+SKU_185,Frozen Corn 185,Frozen Food,171.3,248.77,27
+SKU_186,Soap 186,Personal Care,196.97,257.69,349
+SKU_187,Apple 187,Fruits & Vegetables,209.38,243.27,200
+SKU_188,Milk 188,Dairy,316.59,388.47,152
+SKU_189,Jam 189,Grocery,215.77,320.72,339
+SKU_190,Cheese 190,Dairy,177.56,266.15,65
+SKU_191,Milk 191,Dairy,137.78,179.03,217
+SKU_192,Cake 192,Bakery,152.77,185.88,160
+SKU_193,Cake 193,Bakery,44.97,62.95,80
+SKU_194,Noodles 194,Grocery,223.09,287.85,115
+SKU_195,Toothpaste 195,Personal Care,78.99,114.66,266
+SKU_196,Cleaner 196,Household,161.86,209.29,164
+SKU_197,Tissue 197,Household,339.12,438.41,351
+SKU_198,Frozen Corn 198,Frozen Food,107.81,124.73,257
+SKU_199,Shampoo 199,Personal Care,323.97,473.19,69
+SKU_200,Bun 200,Bakery,326.02,457.34,90
+SKU_201,Cake 201,Bakery,385.81,462.73,167
+SKU_202,Dishwash 202,Household,24.94,35.1,265
+SKU_203,Water 203,Beverages,66.66,91.66,38
+SKU_204,Noodles 204,Grocery,366.04,464.74,199
+SKU_205,Wheat 205,Staples,157.96,196.47,121
+SKU_206,Energy Drink 206,Beverages,175.58,224.21,224
+SKU_207,Coffee 207,Beverages,103.41,147.14,344
+SKU_208,Curd 208,Dairy,235.0,343.83,61
+SKU_209,Curd 209,Dairy,28.54,40.23,16
+SKU_210,Jam 210,Grocery,172.97,207.35,203
+SKU_211,Namkeen 211,Snacks,219.76,305.89,111
+SKU_212,Water 212,Beverages,332.58,396.17,130
+SKU_213,Chips 213,Snacks,124.14,160.37,19
+SKU_214,Soap 214,Personal Care,293.68,338.86,119
+SKU_215,Water 215,Beverages,362.01,509.08,136
+SKU_216,Sauce 216,Grocery,260.58,315.66,311
+SKU_217,Curd 217,Dairy,173.66,231.25,192
+SKU_218,Sauce 218,Grocery,384.28,453.06,195
+SKU_219,Popcorn 219,Snacks,113.23,163.39,151
+SKU_220,Chips 220,Snacks,294.18,396.63,234
+SKU_221,Jam 221,Grocery,203.83,236.63,252
+SKU_222,Popcorn 222,Snacks,246.13,325.81,339
+SKU_223,Biscuits 223,Grocery,312.95,368.12,75
+SKU_224,Milk 224,Dairy,208.29,271.23,106
+SKU_225,Cleaner 225,Household,331.26,381.22,231
+SKU_226,Banana 226,Fruits & Vegetables,59.18,69.95,103
+SKU_227,Butter 227,Dairy,320.21,418.23,59
+SKU_228,Cake 228,Bakery,298.25,422.22,151
+SKU_229,Coke 229,Beverages,363.28,445.9,270
+SKU_230,Rice 230,Staples,378.74,441.41,49
+SKU_231,Detergent 231,Household,88.62,130.31,88
+SKU_232,Coke 232,Beverages,93.19,138.84,330
+SKU_233,Garbage Bags 233,Household,200.2,232.82,105
+SKU_234,Cake 234,Bakery,233.06,274.3,303
+SKU_235,Water 235,Beverages,149.15,192.64,185
+SKU_236,Detergent 236,Household,224.59,299.17,212
+SKU_237,Salt 237,Staples,108.52,142.34,313
+SKU_238,Pasta 238,Grocery,352.39,452.61,143
+SKU_239,Tomato 239,Fruits & Vegetables,399.21,566.29,31
+SKU_240,Coffee 240,Beverages,258.45,386.24,238
+SKU_241,Rice 241,Staples,147.82,208.15,342
+SKU_242,Paneer 242,Dairy,197.58,286.19,160
+SKU_243,Jam 243,Grocery,36.0,52.87,195
+SKU_244,Ice Cream 244,Frozen Food,168.82,250.65,142
+SKU_245,Energy Drink 245,Beverages,118.41,176.88,200
+SKU_246,Cake 246,Bakery,363.42,439.18,228
+SKU_247,Chocolate 247,Snacks,108.04,155.93,150
+SKU_248,Lotion 248,Personal Care,335.64,391.5,332
+SKU_249,Frozen Peas 249,Frozen Food,33.96,48.87,261
+SKU_250,Energy Drink 250,Beverages,259.32,378.43,217
