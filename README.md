@@ -97,18 +97,24 @@ The project includes a 5-page interactive Power BI dashboard:
   5. Redistribution Recommendations
     Actionable inventory transfer recommendations across the network.
 
-🖼️ Dashboard Preview
-1️⃣ Network Overview
+## 🖼️ Dashboard Preview
+
+### 1️⃣ Network Overview
+
 <img width="1037" alt="Dashboard 1 - Network Overview" src="https://github.com/user-attachments/assets/6393092a-5ad4-4979-8eed-cb5a28bb0524" />
 
-2️⃣ Demand & Inventory Analysis
-<img width="1165" height="653" alt="Dashboard 2 Demand   Inventory Analysis" src="https://github.com/user-attachments/assets/3882b4e2-b378-481c-8f44-969d9921fe5c" />
+### 2️⃣ Demand & Inventory Analysis
 
-3️⃣ Demand Forecast
+<img width="1165" height="653" alt="Dashboard 2 Demand & Inventory Analysis" src="https://github.com/user-attachments/assets/3882b4e2-b378-481c-8f44-969d9921fe5c" />
+
+### 3️⃣ Demand Forecast
+
 <img width="1167" height="658" alt="Dashboard 3 Demand Forecast" src="https://github.com/user-attachments/assets/9e46c249-8318-438b-ac81-3b8a8f3b67c6" />
 
-4️⃣ Stockout Risk Watchlist
+### 4️⃣ Stockout Risk Watchlist
+
 <img width="1137" height="654" alt="Dashboard 4 Stockout Risk Watchlist" src="https://github.com/user-attachments/assets/cb33e8fa-9485-46fb-979e-9745bb480b89" />
 
-5️⃣ Redistribution Recommendations
+### 5️⃣ Redistribution Recommendations
+
 <img width="1380" height="777" alt="Dashboard 5 Redistribution Recommendations" src="https://github.com/user-attachments/assets/4eca65e5-afdf-4b1c-8f05-e7061a4566ac" />
