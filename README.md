@@ -99,8 +99,7 @@ The project includes a 5-page interactive Power BI dashboard:
 
 🖼️ Dashboard Preview
 1️⃣ Network Overview
-<img width="1037" height="651" alt="Dashboard 1  Network Overview" src="https://github.com/user-attachments/assets/a842bc95-1a16-4bd4-990c-18e02787d72f" />
-
+<img width="1037" height="651" alt="Dashboard 1  Network Overview" 
 
 2️⃣ Demand & Inventory Analysis
 <img width="1165" height="653" alt="Dashboard 2 Demand   Inventory Analysis" src="https://github.com/user-attachments/assets/3882b4e2-b378-481c-8f44-969d9921fe5c" />
