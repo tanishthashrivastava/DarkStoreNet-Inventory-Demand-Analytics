@@ -99,16 +99,17 @@ The project includes a 5-page interactive Power BI dashboard:
 
 🖼️ Dashboard Preview
 1️⃣ Network Overview
-<img width="1037" height="651" alt="Dashboard 1  Network Overview" src="https://github.com/user-attachments/assets/9f51d024-62f4-4179-86a6-fdf50f06e0cc" />
+<img width="1037" height="651" alt="Dashboard 1  Network Overview" src="https://github.com/user-attachments/assets/f54782a7-3955-479f-aa3e-53ca0136f74a" />
+
 
 2️⃣ Demand & Inventory Analysis
-<img width="1165" height="653" alt="Dashboard 2 Demand   Inventory Analysis" src="https://github.com/user-attachments/assets/8ff9dccc-cd3b-4500-9674-3c96443e4e82" />
+<img width="1165" height="653" alt="Dashboard 2 Demand   Inventory Analysis" src="https://github.com/user-attachments/assets/3882b4e2-b378-481c-8f44-969d9921fe5c" />
 
 3️⃣ Demand Forecast
-<img width="1167" height="658" alt="Dashboard 3 Demand Forecast" src="https://github.com/user-attachments/assets/c3cbe9d8-c088-45bb-87ca-87b1fe19ca23" />
+<img width="1167" height="658" alt="Dashboard 3 Demand Forecast" src="https://github.com/user-attachments/assets/9e46c249-8318-438b-ac81-3b8a8f3b67c6" />
 
 4️⃣ Stockout Risk Watchlist
-<img width="1137" height="654" alt="Dashboard 4 Stockout Risk Watchlist" src="https://github.com/user-attachments/assets/77a19c10-f3a6-4849-be3c-e6c4c5d388ea" />
+<img width="1137" height="654" alt="Dashboard 4 Stockout Risk Watchlist" src="https://github.com/user-attachments/assets/cb33e8fa-9485-46fb-979e-9745bb480b89" />
 
 5️⃣ Redistribution Recommendations
-<img width="1380" height="777" alt="Dashboard 5 Redistribution Recommendations" src="https://github.com/user-attachments/assets/9c6ef333-a43b-49a3-a559-1ee8b563ac59" />
+<img width="1380" height="777" alt="Dashboard 5 Redistribution Recommendations" src="https://github.com/user-attachments/assets/4eca65e5-afdf-4b1c-8f05-e7061a4566ac" />
